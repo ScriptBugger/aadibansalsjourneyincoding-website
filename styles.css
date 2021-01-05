@@ -75,13 +75,6 @@ body {
   padding: 20px;
   margin-top: 50px;
 }
-#pExample {
-  width: 400px;
-  height: 265px;
-  border: 1px solid #333;
-  border-radius: 20px 10px 0 5px;
-  position: relative;
-}
 #pExample span:first-child {
   position: absolute;
   bottom: 20px;
